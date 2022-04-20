@@ -7,3 +7,7 @@
 
 服务器联机方法：
 选择IP直连，输入服务器IP:139.224.131.77,进入游戏即可。
+
+安卓手机请直接下载安装包：https://github.com/pzy2000/OnLineGame/releases/tag/v1.0.0
+
+IOS目前正在加急开发中，不日将上架testflight商店
