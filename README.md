@@ -10,7 +10,7 @@
 
 选择IP直连，输入服务器IP:139.224.131.77,进入游戏即可。
 
-Windows10/11用户请下载压缩包后，自行解压即可畅玩（无需安装）。
+Windows10/11用户请下载压缩包后，自行解压即可畅玩（无需安装）:https://github.com/pzy2000/OnLineGame/releases/tag/v1.0.1
 
 安卓手机请直接下载安装包：https://github.com/pzy2000/OnLineGame/releases/tag/v1.0.0
 
